@@ -6,7 +6,7 @@
 
 ## Projetos
 
-#### Fundamentos de Flutter - Crie seu primeiro app
+#### 1. Fundamentos de Flutter - Crie seu primeiro app
 - Aprenda a utilizar o Flutter, programar em Dart e criar seu primeiro projeto
 
 - Entenda o que é Widget e como funciona a árvore de Widgets
@@ -22,7 +22,8 @@
 - Organize a estrutura do projeto e aprenda a lidar com bugs comuns
 
 
-#### Persistência com Flutter: Crie um app com armazenamento interno
+
+#### 2. Persistência com Flutter: Crie um app com armazenamento interno
 - Conheça as possibilidades comuns para armazenamento interno com o Flutter
 
 - Aprenda a instalar e configurar o sqflite no Flutter
@@ -36,7 +37,8 @@
 - Organize o código do banco de dados com o padrão DAO
 
 
-#### Flutter com web API: integrando sua app mobile
+
+#### 3. Flutter com web API: integrando sua app mobile
 - Implemente callbacks personalizados
 
 - Consuma uma web api com o package do http
@@ -50,6 +52,7 @@
 - Envie dados para web api
 
 - Refatore o código de comunicação externa
+
 
 ## Começando
 

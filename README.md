@@ -4,7 +4,7 @@
 
 [Link da Formação Flutter - Alura](https://www.alura.com.br/formacao-flutter)
 
-## Projetos
+## :mortar_board: Cursos
 
 #### 1. Fundamentos de Flutter - Crie seu primeiro app
 - Aprenda a utilizar o Flutter, programar em Dart e criar seu primeiro projeto
@@ -54,7 +54,7 @@
 - Refatore o código de comunicação externa
 
 
-## Começando
+## :hammer: Instalação
 
 Antes de tudo, cheque conforme a documentação se seu ambiente de desenvolvimento está devidamente configurado.
   - Ambiente configurado com variáveis de sistema
